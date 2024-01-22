@@ -1,0 +1,11 @@
+google.com
+facebook.com
+twitter.com
+my.iit.edu
+gmail.com
+uber.com
+baidu.com
+toyota.com
+stackoverflow.com
+apple.com
+wikipedia.com
