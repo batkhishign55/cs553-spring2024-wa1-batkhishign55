@@ -61,6 +61,12 @@ Run the test:
 
 Output of te test will be in ```network-test-latency.txt``` file.
 
+Install ```pip``` if it is not present in your VM:
+
+```bash
+sudo apt install python3-pip
+```
+
 Install ```matplotlib``` library:
 
 ```bash
@@ -73,4 +79,4 @@ Run the plotting script:
 python3 network-plot.py
 ```
 
-The script will show the visualized latency result.
+The script will show the visualized latency result and be saved in ```network-plot.png```.

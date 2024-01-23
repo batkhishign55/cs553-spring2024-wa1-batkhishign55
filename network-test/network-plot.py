@@ -22,4 +22,5 @@ plt.xticks(rotation='vertical')
 plt.title("Round trip time average latency")
 plt.subplots_adjust(bottom=0.35, top=0.9)
 
+plt.savefig('network-plot.png')
 plt.show()
